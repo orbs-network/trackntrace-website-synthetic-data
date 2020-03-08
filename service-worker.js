@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://orbs-network.github.io/trackntrace-website-synthetic-data/precache-manifest.c30c3e2f7f3f6c34c749ab92426d5b99.js"
+  "https://orbs-network.github.io/trackntrace-website-synthetic-data/precache-manifest.2769cb87f267aab5765aecb4fe29fbac.js"
 );
 
 self.addEventListener('message', (event) => {
